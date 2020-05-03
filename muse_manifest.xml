@@ -1,0 +1,24 @@
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://github.com/sueds/Rubiclick" resolutions="1x" timestamp="1588546732479">
+  <folder name="css">
+    <file name="site_global.css" crc="4013418727"/>
+    <file name="index.css" crc="514809030" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index"/>
+    <file name="museutils.js" crc="4190794036" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="graphics_banner.jpg" crc="3926050938" seo="true" ref="index"/>
+    <file name="logo_app_naked.png" crc="4174659646" seo="true" ref="index"/>
+    <file name="orange_block.png" crc="425630126" seo="true" ref="index"/>
+    <file name="blue_block.png" crc="511579702" seo="true" ref="index"/>
+    <file name="red_block-crop-u778.png" crc="3842258219" ref="index"/>
+    <file name="white_block.png" crc="3833842115" seo="true" ref="index"/>
+    <file name="phone01.png" crc="4042656472" seo="true" ref="index"/>
+    <file name="phone03.png" crc="4189240923" seo="true" ref="index"/>
+    <file name="phone02.png" crc="392414755" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="396336428" seo="true" mt="1588535217775" redirect="true"/>
+</manifest>
